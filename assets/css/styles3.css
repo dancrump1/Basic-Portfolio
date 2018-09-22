@@ -1,0 +1,194 @@
+#banner{
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    background-color: white; 
+    width: 100%;
+    height: 85px;
+    border-color: grey;
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+h1{
+    background: #4aaaa5;
+    color: white;
+    width: 250px;
+    text-align: center;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    margin-left: 25%;
+    padding: 23px;
+    top: -22px;
+
+}
+
+#aboutButton{
+    float: left;
+    padding-top: 30px;
+    padding-left: 50%;
+    margin: 2px;
+}
+
+#portfolioButton{
+    float: left;
+    padding-top:30px;
+    margin: 2px;
+}
+
+#contactButton{
+    padding-top: 30px;
+    padding-left: 46%;
+    margin: 2px;
+
+}
+
+#centerArea{
+    position: absolute;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    top: 25%;
+    left: 25%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.centerArea{
+    position: relative;
+    background-color: white;
+    width: 960px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    left: 18.5%;
+    top: 160px;
+    margin-bottom: 50px;
+}
+h2{
+    color: #4aaaa5;
+    clear: left;
+    width: 98%;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    border-bottom-color: grey;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    
+}
+body{
+    background-image: url("../images/gravel/gravel.png");
+    background-color: grey;
+}
+
+#hangmanImage{
+    height: 33%;
+    width: 33%;
+    margin: 30px;
+
+}
+#rpgImage{
+    height: 33%;
+    width: 33%;
+    padding-bottom: 30px;
+
+}
+#triviaImage{
+    height: 33%;
+    width: 33%;
+    margin: 30px;
+}
+#widgetImage{
+    height: 33%;
+    width: 33%;
+    padding-bottom: 30px;
+}
+#rockpaperImage{
+    height: 33%;
+    width: 33%;
+    margin: 30px;
+}
+
+#hangmanGame{
+top: 28%;
+position: absolute;
+background-color: #4aaaa5;
+width: 318px;
+height: 50px;
+left: 3%;
+text-align: center;
+color: white;
+}
+#RPGGame{
+    top: 28%;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 318px;
+    height: 50px;
+    left: 39.75%;
+    text-align: center;
+    color: white;
+}
+#triviaGame{
+    top: 59%;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 318px;
+    height: 50px;
+    left: 3%;
+    text-align: center;
+    color: white;
+    }
+#widgetGame{
+    top: 59%;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 318px;
+    height: 50px;
+    left: 39.75%;
+    text-align: center;
+    color: white;
+    }
+#RockPaperScissors{
+    top: 90%;
+    position: absolute;
+    background-color: #4aaaa5;
+    width: 318px;
+    height: 50px;
+    left: 3%;
+    text-align: center;
+    color: white;
+}
+#blueBox{
+    position: fixed; 
+    bottom: 0; 
+    left: 0;
+    background-color: #666666; 
+    width: 100%;
+    height: 60px;
+    border-color: grey;
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+#tealBox{
+    position: fixed; 
+    bottom: 0; 
+    left: 0;
+    background-color: #4aaaaf; 
+    width: 100%;
+    height: 70px;
+    border-color: grey;
+    border-bottom-style: solid;
+    border-width: 1px;
+}
+
+#copyright{
+    text-align: center;
+    color: white;
+    position: fixed; 
+    bottom: 0; 
+    left: 50%;
+
+}
